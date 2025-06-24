@@ -1,0 +1,7 @@
+Subject: Suspicious Activity in Your Google Account
+
+We noticed suspicious activity in your Google account.  
+Please login immediately to verify your identity.  
+If you don’t, your account will be deactivated.
+
+[Click here to secure your account]
