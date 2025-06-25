@@ -49,7 +49,7 @@ This is a **phishing email**. The attacker is attempting to steal login credenti
 
 - `README.md` – This file (full report)
 - `fake_email_example.txt` – The raw sample text from the phishing email
-- *(Optional)* `screenshot.png` – Visual of the sample email (if available)
+-  `screenshot.png` – Visual of the sample email 
 
 ---
 
